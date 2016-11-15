@@ -1,0 +1,16 @@
+#node modules
+node_modules/
+
+#typings
+typings/
+
+
+#dist
+dist/
+.tmp/
+
+
+
+#visual studio code
+.vscode/
+
